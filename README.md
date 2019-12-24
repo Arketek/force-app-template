@@ -1,1 +1,1 @@
-# force-app-template
+# sfdx-module-template
